@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      Corsato Profile
+title:      
 date:       2015-07-11
 summary:    Now, Pixyll is lighter weight and more customizable than before.
 categories: jekyll pixyll
 ---
 
-Carlo Corsato
-Project Designer and Supervisor
+
 
 In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
 
