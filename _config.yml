@@ -1,8 +1,8 @@
 # Site settings
-title:       Carlo Corsato
+title:       RenArt_DB
 email:       carlo.corsato@gmail.com
 author:      Carlo Corsato
-description: "My personal site"
+description: "A database of 120 key works of art of Renaissance Art in Europe"
 baseurl:     ""
 url:         "/"
 date_format: "%b %-d, %Y"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Pixyll
+title: About RenArt_DB
 permalink: /about/
 tags: about
 ---
