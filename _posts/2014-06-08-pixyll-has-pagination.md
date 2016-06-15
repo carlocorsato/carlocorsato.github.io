@@ -6,4 +6,4 @@ summary:    This is an empty post to illustrate the pagination component with Pi
 categories: jekyll pixyll
 ---
 
-This is an empty post to illustrate the pagination component with Pixyll.
+<iframe width="100%" height="520" frameborder="0" src="https://carlocorsato.cartodb.com/viz/e07e00ee-32fb-11e6-9b65-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
